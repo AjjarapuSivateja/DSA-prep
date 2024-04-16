@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 //Ceiling-The smallest element of array greater or equal to target
 //array - {1,3,5,9,10}, target =8
 //since 8 is not equal to any element in array, the ceiling is 9(smallest element in array greater than 8)
