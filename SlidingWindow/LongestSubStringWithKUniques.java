@@ -3,6 +3,7 @@ package SlidingWindow;
 import java.util.HashMap;
 
 public class LongestSubStringWithKUniques {
+    //geeksforgeeks--https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1
     public int longestKSubstr(String s, int k) {
         // code here
         HashMap<Character,Integer> f =new HashMap<>();
